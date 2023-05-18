@@ -110,6 +110,7 @@ alias cl='clear'
 
 alias run='npm run start'
 alias build='./gradlew assembleDev'
+alias a='./a.out'
 
 
 # Add an "alert" alias for long running commands.  Use like so:
