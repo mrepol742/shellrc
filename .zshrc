@@ -1,7 +1,7 @@
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 figlet mrepol742 | lolcat
-./greetings.sh
+/home/mrepol742/greetings.sh
 echo https://mrepol742.github.io | lolcat
 # Path to your oh-my-zsh installation.
 export ZSH="$HOME/.oh-my-zsh"
